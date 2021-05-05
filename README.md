@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bperez134
+- 👀 I’m interested in VR/AR.
+- 🌱 I’m currently learning OOP in California State University Los Angeles, Blender, Unity, and c#.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me bperez104@yahoo.com
